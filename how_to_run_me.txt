@@ -1,0 +1,5 @@
+In order to run this code run the following commands:
+
+npm install
+
+node index.js
